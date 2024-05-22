@@ -1,0 +1,38 @@
+body{
+background-image: url('file:///C:/Users/Utente/Desktop/boolean/Scooter%20Lim/sfondo.jpg');
+color: white
+}
+header{
+  text-align: center;
+}
+.titolo{
+  text-decoration-color: LIME;
+}
+
+.submit{
+   background-color: LIME;
+   height: 50PX;
+   text-align: center; /* orizzontale */
+   line-height: 50px; /* verticale */
+}
+.square.green{
+  height: 50px;
+  width: 800px;
+  border: 1px;
+  margin: 1px;
+  background: Green;
+}
+.square.red{
+  height: 50px;
+  width: 300px;
+  border: 1px;
+  margin: 1px;
+  background: red;
+}
+.square.gold{
+  height: 50px;
+  width: 600px;
+  border: 1px;
+  margin: 1px;
+  background: gold;
+}
